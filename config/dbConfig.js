@@ -1,3 +1,3 @@
 global.tablesName = {
-    COMPANY: "tbl_company"
+    COMPANY: "tbl_company" 
 };
